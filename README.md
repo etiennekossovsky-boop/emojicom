@@ -1,15 +1,16 @@
-# Project Overview
+# Emojicom
 
-Welcome to the Emojicom project! This project is dedicated to providing a comprehensive platform that integrates emoji with various communications tools, enhancing user engagement and expression.
+Emojicom is a project aimed at enhancing communication through the use of emojis. Our mission is to create a universal language that transcends barriers and provides a richer communication experience.
 
-## Features
-- Emoji integration across platforms
-- Custom emoji creation tools
-- User-friendly interface
+## Project Overview
 
-## Foundational Documents
-- [Project Roadmap](https://example.com/roadmap)
-- [Technical Documentation](https://example.com/tech-docs)
-- [Contribution Guidelines](https://example.com/contributing)
+The project focuses on the following core principles and guidelines:
 
-For more information, please refer to the documents mentioned above or explore the repository.
+- [PHILOSOPHY](PHILOSOPHY.md): Our guiding principles.
+- [ARTICLE 1](ARTICLE_1.md): Key insights and discussions.
+- [MISSION](MISSION.md): Our mission statement.
+- [GOVERNANCE](GOVERNANCE.md): Project governance and decision-making.
+- [GRAMMAR](GRAMMAR.md): The rules for the use of emojis.
+- [CANONICAL SEQUENCES](CANONICAL_SEQUENCES.md): The established sequences for emojis.
+- [CONTRIBUTING](CONTRIBUTING.md): How to contribute to the project.
+- [RFC TEMPLATE](RFC_TEMPLATE.md): Template for requesting change proposals.
