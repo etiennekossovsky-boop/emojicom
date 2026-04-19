@@ -1,4 +1,4 @@
-# Sytax & grammar
+# Syntax & grammar
 
 # Emojicom Syntax v0.1
 Copyright 2026 Emojicom
